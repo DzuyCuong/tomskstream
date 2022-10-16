@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1,01 Первый канал (ТЕСТ)
+http://31.211.77.158:8000/play/a201/index.m3u8
+#EXTINF:-1,02 РОССИЯ-1 (ТЕСТ)
+http://31.211.77.158:8000/play/a202/index.m3u8
+#EXTINF:-1,03 МАТЧ! (ТЕСТ)
+http://31.211.77.158:8000/play/a203/index.m3u8
+#EXTINF:-1,04 НТВ (ТЕСТ)
+http://31.211.77.158:8000/play/a204/index.m3u8
+#EXTINF:-1,05 ПЯТЫЙ КАНАЛ (ТЕСТ)
+http://31.211.77.158:8000/play/a205/index.m3u8
+#EXTINF:-1,06 РОССИЯ-К (ТЕСТ)
+http://31.211.77.158:8000/play/a206/index.m3u8
+#EXTINF:-1,07 РОССИЯ-24 (ТЕСТ)
+http://31.211.77.158:8000/play/a207/index.m3u8
+#EXTINF:-1,08 КАРУСЕЛЬ (ТЕСТ)
+http://31.211.77.158:8000/play/a208/index.m3u8
+#EXTINF:-1,09 ОТР (ТЕСТ)
+http://31.211.77.158:8000/play/a209/index.m3u8
+#EXTINF:-1,10 ТВ Центр (ТЕСТ)
+http://31.211.77.158:8000/play/a210/index.m3u8
+#EXTINF:-1,11 РЕН ТВ (ТЕСТ)
+http://31.211.77.158:8000/play/a211/index.m3u8
+#EXTINF:-1,12 Спас (ТЕСТ)
+http://31.211.77.158:8000/play/a212/index.m3u8
+#EXTINF:-1,13 СТС (ТЕСТ)
+http://31.211.77.158:8000/play/a213/index.m3u8
+#EXTINF:-1,14 Домашний (ТЕСТ)
+http://31.211.77.158:8000/play/a214/index.m3u8
+#EXTINF:-1,15 ТВ3 (ТЕСТ)
+http://31.211.77.158:8000/play/a215/index.m3u8
+#EXTINF:-1,16 Пятница (ТЕСТ)
+http://31.211.77.158:8000/play/a216/index.m3u8
+#EXTINF:-1,17 Звезда (ТЕСТ)
+http://31.211.77.158:8000/play/a217/index.m3u8
+#EXTINF:-1,18 МИР (ТЕСТ)
+http://31.211.77.158:8000/play/a218/index.m3u8
+#EXTINF:-1,19 ТНТ (ТЕСТ)
+http://31.211.77.158:8000/play/a219/index.m3u8
+#EXTINF:-1,20 МУЗ ТВ (ТЕСТ)
+http://31.211.77.158:8000/play/a220/index.m3u8
+#EXTINF:-1,Томское время
+http://31.211.77.158:8000/play/a021/index.m3u8
+#EXTINF:-1,Продвижение - Стрежевой
+https://live.stv-tv.ru/playlist.m3u8
+#EXTINF:-1,Канал Disney
+http://31.211.77.158:8000/play/a043/index.m3u8
+#EXTINF:-1,Ювелирочка
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_srt/chunklist_DVR.m3u8
+#EXTINF:-1,ТНТ4
+http://31.211.77.158:8000/play/a072/index.m3u8
+#EXTINF:-1,LEOMAX 24
+http://31.211.77.158:8000/play/a138/index.m3u8
+#EXTINF:-1,Ю
+http://31.211.77.158:8000/play/a068/index.m3u8
+#EXTINF:-1,Digital Media
+https://video.jewelleria.de/hlslive/test/site.m3u8
+#EXTINF:-1,Че
+http://31.211.77.158:8000/play/a067/index.m3u8
+#EXTINF:-1,Суббота!
+https://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,РБК
+http://31.211.77.158:8000/play/a129/index.m3u8
+#EXTINF:-1,СТС Love
+http://31.211.77.158:8000/play/a071/index.m3u8
+#EXTINF:-1,Мульт
+http://31.211.77.158:8000/play/a047/index.m3u8
+#EXTINF:-1,Восьмой канал
+http://31.211.77.158:8000/play/a182/index.m3u8
+#EXTINF:-1,Точка ТВ
+http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
+#EXTINF:-1,Мульт
+http://31.211.77.158:8000/play/a047/index.m3u8
+#EXTINF:-1,Русский роман
+http://31.211.77.158:8000/play/a112/index.m3u8
+#EXTINF:-1,Калейдоскоп ТВ
+http://31.211.77.158:8000/play/a128/index.m3u8
+#EXTINF:-1,2X2
+http://31.211.77.158:8000/play/a048/index.m3u8
+#EXTINF:-1,RUTV
+http://31.211.77.158:8000/play/a023/index.m3u8
+#EXTINF:-1,Шоппинг Лайв
+https://shoppinglive.mediacdn.ru/cdn/shopping/playlist.m3u8
+#EXTINF:-1,Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1,Мир 24
+http://31.211.77.158:8000/play/a036/index.m3u8
+#EXTINF:-1,Первый канал HD
+http://31.211.77.158:8000/play/a065/index.m3u8
+#EXTINF:-1,Россия HD
+http://31.211.77.158:8000/play/a066/index.m3u8
+#EXTINF:-1,Матч HD
+http://78.25.155.47:1309/channel/Match_HD.ts
+#EXTINF:-1,НТВ HD
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Пятница! HD
+https://bl.uma.media/live/410336/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:-1,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
